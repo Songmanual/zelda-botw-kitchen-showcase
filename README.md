@@ -1,8 +1,12 @@
-# 旷野厨房 · Zelda: Breath of the Wild Kitchen
+# 旷野厨房 · 塞尔达传说：旷野之息料理与食谱查询
+
+**Zelda: Breath of the Wild Kitchen · BOTW Cooking, Elixirs & Rupee Planner**
 
 **手里的材料能煮什么？怎么搭配来吃，怎么搭配来卖？**
 
 为《塞尔达传说：旷野之息》玩家制作的料理、药剂与卢比搭配工具。把材料放进五格锅里，查看成品、效果与售价；也可以搜菜名，直接试一份最简配方。
+
+给林克准备补血料理、恢复精力的食谱，或耐寒、防火、提升攻击力的搭配，都可以先在这里试一锅；想赚卢比，也能按手头材料比较料理和药剂的出售价格。
 
 **[打开旷野厨房 →](https://zelda.wx-qq.net/)** · [English introduction](README.en.md) · [反馈问题](https://github.com/Songmanual/zelda-botw-kitchen-showcase/issues/new/choose)
 
