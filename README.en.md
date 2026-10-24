@@ -1,8 +1,12 @@
 # Zelda: Breath of the Wild Kitchen · 旷野厨房
 
+**塞尔达传说：旷野之息料理与食谱查询 · BOTW Cooking, Elixirs & Rupee Planner**
+
 **See what your ingredients can cook—and compare recipes for eating or selling.**
 
 A fan-made cooking, elixir, and rupee-planning tool for **The Legend of Zelda: Breath of the Wild (BOTW)**. Add up to five ingredients to a virtual cooking pot to preview the result, or look up a dish and try a minimal recipe.
+
+Plan meals and elixirs for Link to recover hearts or stamina, resist cold or heat, and boost attack. When you want more rupees, compare selling combinations using the materials you have.
 
 **[Open the website →](https://zelda.wx-qq.net/)** · [简体中文](README.md) · [Report an issue](https://github.com/Songmanual/zelda-botw-kitchen-showcase/issues/new/choose)
 
